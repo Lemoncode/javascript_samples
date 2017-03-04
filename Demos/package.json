@@ -1,0 +1,20 @@
+{
+  "name": "demos_ecmascript5",
+  "version": "1.0.0",
+  "description": "Demos for master frontend JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ES5"
+  ],
+  "author": "Jaime Salas",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
